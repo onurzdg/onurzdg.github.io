@@ -36,6 +36,8 @@ minima:
   skin: dark
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
 
 
 
