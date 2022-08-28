@@ -30,7 +30,8 @@ twitter_username: ""
 github_username:  onurzdg
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
 plugins:
