@@ -39,6 +39,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
 
+google_analytics: G-KRFPKZLQ13
 
 
 # Exclude from processing.
